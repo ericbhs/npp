@@ -38,8 +38,8 @@ Create rules to get colors in NppExec console
 
 Hit ``Shift + F6`` to see the menu and define rules with wildcards (``*`` and so) :
 
-.. image :: _static/colors.png
-    :target: _static/colors.png
+.. image :: _static/colors.PNG
+    :target: _static/colors.PNG
 
 Run C/C++ code with NppExec
 ===========================

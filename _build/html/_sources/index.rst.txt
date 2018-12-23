@@ -38,8 +38,8 @@ Create rules to get colors in NppExec console
 
 Hit ``Shift + F6`` to see the menu and define rules with wildcards (``*`` and so) :
 
-.. image :: _static/colors.png
-    :target: _static/colors.png
+.. image :: _static/colors.PNG
+    :target: _static/colors.PNG
 
 Run C/C++ code with NppExec
 ===========================
@@ -52,6 +52,8 @@ Install C/C++ compiler
 * Run MinGW Installation manager and install "mingw32-gcc-g++" package
 
 * Compiler executable should be located at ``C:\MinGW\bin``
+
+* Add g++ to windows PATH
 
 Launch compiler in NppExec
 --------------------------
